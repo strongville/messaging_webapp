@@ -1,0 +1,32 @@
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-size: 1em;
+}
+
+#sender {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	font-size: 2em;
+}
+
+#container {
+	padding: 0.3em;
+}
+.message {
+	position: relative;
+	width: 70%;
+	padding: 5px;
+	background: #ccc;
+	margin: 0.5em;
+}
+
+.message.left {
+	left: 0;
+}
+
+.message.right {
+	right: 0;
+}

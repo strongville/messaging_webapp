@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "Pidgeon Messages",
   "description": "Aplicación simple para chatear con amigos.",
   "launch_path": "/conversation.html",
@@ -11,4 +12,24 @@
   },
   "fullscreen": true,
   "default_locale": "es"
+=======
+	"name": "Mensajes",
+	"version": "0.1",
+	"description": "Permite comunicarte con tus amigos de manera rapida.",
+	"launch_path": "/index.html",
+	"default_locale": "es",
+	"icons":{
+		"128": "/iconos/logo128.png"
+	},
+	"developer":{
+		"name": "CODEAR",
+		"url": "http://www.codear.la"
+	},
+	"type": "privileged",
+	"permissions":{
+		"systemXHR":{
+			"description": "Necesario para poder recuperar tus mensajes en tiempo real."
+		}
+	}
+>>>>>>> c356ae9630957731643506ed175b2bc85cda359d
 }
