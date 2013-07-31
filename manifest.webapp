@@ -1,0 +1,14 @@
+{
+  "name": "Pidgeon Messages",
+  "description": "Aplicación simple para chatear con amigos.",
+  "launch_path": "/conversation.html",
+  "icons": {
+    "128": "/img/logo128.png"
+  },
+  "developer": {
+    "name": "Comunidad de Desarrollo Aragón",
+    "url": "http://codear.mx/"
+  },
+  "fullscreen": true,
+  "default_locale": "es"
+}
